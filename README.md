@@ -1,26 +1,11 @@
-# IAM Working Overview
+# Ex-04 IAM Working Overview
 
-This repository provides a comprehensive overview of Identity and Access Management (IAM), focusing on its purpose, components, and implementation practices in cloud and enterprise environments. The aim is to educate developers, system admins, and security teams on IAM essentials and offer a hands-on guide for setting up and managing IAM policies.
+The aim is to educate developers, system admins, and security teams on IAM essentials and offer a hands-on guide for setting up and managing IAM policies.
 
 ```
 Name : GOKULA PRIYA P
 Reg.No: 212222040044
 ```
-
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Objectives](#objectives)
-3. [Prerequisites](#prerequisites)
-4. [Core Components of IAM](#core-components-of-iam)
-5. [IAM Best Practices](#iam-best-practices)
-6. [Setup Guide](#setup-guide)
-7. [Examples](#examples)
-8. [Limitations](#limitations)
-9. [Conclusion](#conclusion)
-10. [References](#references)
-
----
-
 ## Introduction
 
 Identity and Access Management (IAM) is a framework of policies, technologies, and practices designed to manage digital identities and control access to resources. IAM helps ensure the right individuals have the right access to resources at the right time. It is crucial for securing sensitive data and resources in any organization, especially those operating in a cloud environment.
